@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">User List App</string>
+    <string name="title_activity_profile">ProfileActivity</string>
+    <!-- Strings used for fragments for navigation -->
+</resources>
